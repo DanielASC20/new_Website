@@ -1,0 +1,96 @@
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+}
+
+#aboutMeNav{
+    text-decoration: none;
+    color:white;
+}
+
+#locationNav{
+    text-decoration: none;
+    color:white;
+}
+
+#photoNav{
+    text-decoration: none;
+    color:white;
+}
+
+#musicNav{
+    text-decoration: none;
+    color:white;
+}
+
+#codingNav{
+    text-decoration: none;
+    color:white;
+}
+
+.intro{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    color: lightgreen;
+}
+
+.thingsImDoing{
+    margin-top: 50px;
+    list-style-type: decimal;
+}
+
+li{
+    padding: 5px;
+    font-family: 'Recursive',sans-serif;
+}
+
+.moreInfo{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.homePage{
+    background-image: url(/photos/DSC_0301.JPG);
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+}
+
+.codingExperience{
+    display: flex;
+    align-items: center;
+}
+
+.codingExperienceText{
+    margin-left:50px;
+    margin-right: 20px;
+}
+
+.choir{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.choirText{
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+p{
+    font-family: 'Recursive', sans-serif;
+}
+h2{
+    font-family: 'Rowdies', cursive;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
